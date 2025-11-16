@@ -47,11 +47,11 @@ CREATE TABLE users(
     password VARCHAR(255)
 );
 
-🚀 Getting Started
+##Getting Started
 Prerequisites
 Java JDK 8 or higher
 
-MySQL Server
+##MySQL Server
 
 MySQL Connector/J
 
@@ -81,45 +81,39 @@ Run the application
 javac BankingApp.java
 java BankingApp
 
-📱 Usage
+##Usage
 Registration: New users can register with name, email, and password
 
 Login: Registered users can login with credentials
 
 Account Creation: Create a bank account with initial deposit and security PIN
 
-Transactions:
+##Transactions:
 
-Debit money with PIN verification
+-Debit money with PIN verification
 
-Credit money to account
+-Credit money to account
 
-Transfer funds to other accounts
+-Transfer funds to other accounts
 
-Check current balance
+-Check current balance
 
-🔒 Security Features
-PIN-based authentication for transactions
+##Security Features
+-PIN-based authentication for transactions
 
-Input validation and exception handling
+-Input validation and exception handling
 
-SQL injection prevention using prepared statements
+-SQL injection prevention using prepared statements
 
 Transaction rollback on failure
 
-📈 Future Enhancements
-Data Encryption: Secure sensitive data using encryption algorithms
+##Future Enhancements
+-Data Encryption: Secure sensitive data using encryption algorithms
 
-Mini Statements: View recent transaction history
+-Mini Statements: View recent transaction history
 
-Loan Management: Automated loan approval and EMI tracking
+-Loan Management: Automated loan approval and EMI tracking
 
-Web Interface: Web-based user interface
-
-Mobile Application: Cross-platform mobile app
-
-🤝 Contributing
+##Contributing
 Contributions are welcome! Please feel free to submit pull requests or open issues for suggestions.
 
-📄 License
-This project is licensed under the MIT License.
