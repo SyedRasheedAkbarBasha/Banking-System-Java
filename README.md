@@ -107,12 +107,12 @@ Account Creation: Create a bank account with initial deposit and security PIN
 
 Transaction rollback on failure
 
-##Future Enhancements
--Data Encryption: Secure sensitive data using encryption algorithms
+## Future Enhancements
+- Data Encryption: Secure sensitive data using encryption algorithms
 
--Mini Statements: View recent transaction history
+- Mini Statements: View recent transaction history
 
--Loan Management: Automated loan approval and EMI tracking
+- Loan Management: Automated loan approval and EMI tracking
 
 ##Contributing
 Contributions are welcome! Please feel free to submit pull requests or open issues for suggestions.
