@@ -105,7 +105,7 @@ java BankingApp
 
 - SQL injection prevention using prepared statements
 
-Transaction rollback on failure
+- Transaction rollback on failure
 
 ## Future Enhancements
 - Data Encryption: Secure sensitive data using encryption algorithms
